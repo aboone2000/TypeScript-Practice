@@ -1,9 +1,12 @@
-//TypeScript Basics
+//TypeScript Basics:
+// 1.Cannot change the Type afer already  being declared.
+// 2. TypeScript code with have an error if a javascript file is open 
+
 let character = 'mario'
 let age = 30
 let isBlackBelt = false
 
-character = 'cluigi'
+character = 'luigi'
 
 //age = 'Yoshi'
 
