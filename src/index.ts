@@ -1,4 +1,6 @@
+//DOM(Document Object Model) & Type Casting
 //Example 1
+
 const anchor = document.querySelector('a')!
 // Using the ! operator lets the file know that this query selector exsits in index.html.
 //if(anchor){
