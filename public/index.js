@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-//Lesson 15: Interfaces
-const Invoice_js_1 = require("./classes/Invoice.js");
-const payment_js_1 = require("./classes/payment.js");
+//Lesson 16: Interfaces with classes
+const Invoice_js_1 = require("../src/classes/Invoice.js");
+const payment_js_1 = require("../src/classes/payment.js");
 //let docOne: HasFormatter
 //let docTwo: HasFormatter
 //docOne = new Invoice('yoshi', 'web work', 250 )
